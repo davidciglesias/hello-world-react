@@ -1,0 +1,1 @@
+We are only what we make of ourselves, and thus we must rely on others to build us as we construct the future.
