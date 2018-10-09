@@ -36,4 +36,4 @@ Here are my resources so far ([credit goes to...](https://medium.freecodecamp.or
 ## Uncertainty
 
 1. [SASS](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
-2. [nwb](https://github.com/insin/nwb#react-components-and-libraries) r [Neutrino](https://neutrinojs.org/packages/react-components/)
+2. [nwb](https://github.com/insin/nwb#react-components-and-libraries) or [Neutrino](https://neutrinojs.org/packages/react-components/)
